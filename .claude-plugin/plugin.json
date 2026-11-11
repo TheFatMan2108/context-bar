@@ -1,0 +1,6 @@
+{
+  "name": "context-bar",
+  "version": "0.1.0",
+  "description": "Thanh context của phiên ngay dưới ô nhắn tin.",
+  "types": "./types/index.d.ts"
+}
